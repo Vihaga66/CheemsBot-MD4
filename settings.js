@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['hi 🤭'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -106,19 +106,21 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    admin: 'මෙම විශේෂාංගය පරිපාලක සඳහා පමණි!',
+    botAdmin: 'Bot මුලින්ම Admin විය යුතුය!',
+    owner: 'මෙම විශේෂාංගය හිමිකරු සඳහා පමණි!',
+    group: 'විශේෂාංගය කණ්ඩායම් සඳහා පමණක් භාවිතා වේ!',
+    private: 'පුද්ගලික කතාබස් සඳහා පමණක් භාවිතා කරන විශේෂාංග!',
+    bot: 'මෙම විශේෂාංගය Bot සඳහා පමණි',
+    wait: 'ක්රියාවලිය තුළ...',
+    linkm: 'කෝ ලින්ක් එක?',
+    error: 'දෝෂයකි!!',
+    endLimit: 'ඔබගේ දෛනික සීමාව කල් ඉකුත් වී ඇත, සීමාව සෑම පැය 12 කට වරක් නැවත සකසනු ලැබේ',
+    ban: 'ඔබ අයිතිකරු විසින් තහනම් කර ඇත, ඔබට තහනම් නොකිරීමට අවශ්‍ය නම්, කතාබස් හිමිකරු.',
+    nsfw: 'nsfw විශේෂාංගය සක්‍රිය කර නැත, කරුණාකර සක්‍රිය කිරීමට පරිපාලක අමතන්න',
+    banChat: 'බොට් එක baThe bot මෙම කණ්ඩායම තුළ තහනම් කර ඇත, කරුණාකර තහනම් ඉවත් කිරීමට හිමිකරු අමතන්න'
+ 
+ 
 }
     global.limitawal = {
     premium: "Infinity",
